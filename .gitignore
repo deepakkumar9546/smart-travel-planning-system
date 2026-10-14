@@ -1,0 +1,12 @@
+
+venv/
+__pycache__/
+*.py[cod]
+.env
+.streamlit/secrets.toml
+.DS_Store
+# Local diagnostics
+check_openrouter_quota.py
+test_travel_apis.py
+# Streamlit cache
+.streamlit/cache/
